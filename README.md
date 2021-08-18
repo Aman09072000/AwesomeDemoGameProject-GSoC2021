@@ -16,7 +16,7 @@ The main character of the game is Batro, he is heavily inspired by the logo of C
 
 ## Complete Plan
 After going through the idealist of the catrobat community thoroughly I found “Awesome Demo Game” project suitable to my skill set and interest. I have always been fascinated and impacted by games that are not just about gameplay, but that carry a whole universe.Pocket Code provides the perfect tools to express my ideas and with the help of it, ​I  want to showcase how the Pocket Code and Luna&Cat IDE apps could be used to create big game-projects like- “Hollow Knight".
-Pocket Code has functionalities like storing the data locally on a device. There are various sensors like accelerometer and multi-touch which are used in the game to showcase the potential of Pocket Code. My plan is to design and develop an awesome tutorial game in Catrobat Visual Programming Language using the Luna&Cat IDE app. 
+Pocket Code has functionalities like storing the data locally on a device. There are various sensors like multi-touch which are used in the game to showcase the potential of Pocket Code. My plan is to design and develop an awesome tutorial game in Catrobat Visual Programming Language using the Luna&Cat IDE app. 
 This game is playable on both phones as well as on smart TV when cast.I Means we can use the phone as a gamepad, and the TV for playing. and  use multi-touch, phone's sensors, magnetic fields, acceleration, vibration and other features of pocket code as well.
 
 ### Contributing to the Project
