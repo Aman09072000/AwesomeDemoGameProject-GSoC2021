@@ -4,6 +4,7 @@
 
 An Awesome Tutorial Game ( playable on both phones as well as on smart TV when cast ) in Catrobat Visual Programming Language. The game is inspired by a hugely popular 2D game “Hollow Knight”. The main character of the game is Batro who is the king of the Batona kingdom. At each level, king Batro fights with one of the evil monsters and crosses the hurdles and In the last level, the king fights with Giant Monster Martian and frees his Kingdom from the evil Monsters. The player follows Batro in his journey. The game story is easily depicted through cinematic cutscenes for better insight. The game is very easy to play and get into, with on-screen controls, and a fairly simple UI. The game is playable on both phones and on a smart TV without looking at the phone's screen while using the phone as a gamepad. This game shows how the ‘Pocket Code’ app can be used to develop high-quality video games if used efficiently and effectively.
 I really enjoyed working on this project, and even though GSoC is over, I hope to add more features to the game!
+Game Youtube video- https://youtu.be/hI_HxBDf2mY
 
 Thanks to my mentor Jude Birch for all the support over the last 10 weeks.
 
